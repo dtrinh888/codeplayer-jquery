@@ -28,7 +28,7 @@ body {
 #toggles {
 	margin: 0 auto;
 	font-size: 120%;
-	width: 300px;
+	width: 296px;
 	border: 1px solid black;
 	padding: 0;
 	border-radius: 5px;
@@ -75,4 +75,9 @@ body {
 iframe {
 	position: relative;
 	border: none;
+}
+
+
+.toggle-selected {
+	background-color: gray;
 }
